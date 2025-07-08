@@ -1,2 +1,2 @@
 # Cpp-Lessons
-C++ ders notlarım ve kodlar
+Necati Ergin Ocak 2025 C++ eğitimnde aldığım ders notlarım ve kodlar
